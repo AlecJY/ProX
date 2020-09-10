@@ -1,0 +1,2 @@
+xbox360controller==1.1.2
+-e git+https://github.com/mart1nro/joycontrol.git@e20df74f7376e2d4e0b6e18787764abeaf963c7b#egg=joycontrol
